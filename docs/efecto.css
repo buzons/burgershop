@@ -8,10 +8,12 @@ header{
     border: 1px solid blue;
     height: 100px;
     
+    
 }
 nav{
     border: 1px solid violet;
     height: 50px;
+    margin: 5px 0px 5px 0px;
    
 }
 section{
@@ -48,5 +50,22 @@ aside3{
     width:  650px;
     float: right;
 }
+ nav ul li{
+    display: inline-block;
+    margin: rigth ;
+    border: 2px solid red;
+    font-family: 'Oswald', sans-serif;
 
+}
+header {
+    text-align: center;
+    height: 90px;
+}
+nav ul{
+    list-style: none;
+}
+imagenes.descarga0{
+    width: 50px;
+    height: 50px;
+}
 
