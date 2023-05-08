@@ -22,4 +22,31 @@ section{
 footer{
     border: 1px solid yellow;
     height: 150px;
-    
+}
+article{
+    border: 1px solid black;
+    height: 350px;
+    width:  490px;
+    margin: auto;
+    float: left;
+}   
+aside1{
+    border: 1px solid orange;
+    height: 105px;
+    width:  650px;
+    float: right;
+}
+aside2{
+    border: 1px solid pink;
+    height: 105px;
+    width:  650px;
+    float: right;
+}
+aside3{
+    border: 1px solid brown;
+    height: 105px;
+    width:  650px;
+    float: right;
+}
+
+
